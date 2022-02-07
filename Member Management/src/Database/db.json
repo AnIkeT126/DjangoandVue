@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "MS Dhoni",
+      "discord_handle": "dhoni#2134",
+      "email": "msdhoni@gmail.com",
+      "phone": "4563214530",
+      "domain": "open source"
+     
+    },
+    {
+      "name": "Mohd Shami",
+      "discord_handle": "mohdshami#2134",
+      "email": "shami@gmail.com",
+      "phone": "7896547896",
+      "domain": "AI"
+    },
+    {
+      "name": "KL Rahul",
+      "discord_handle": "klrahul#2134",
+      "email": "rahul@gmail.com",
+      "phone": "7458965874",
+      "domain": "cyber security"
+    },
+    {
+      "name": "Shikhar Dhawan",
+      "discord_handle": "dhawansikhar#4566",
+      "email": "dhawan@gmail.com",
+      "phone": "4569874563",
+      "domain": "open source"
+    }
+  ]
+}
